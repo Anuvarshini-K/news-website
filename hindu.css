@@ -1,0 +1,179 @@
+div.length
+{
+	line-height: 0.3px;
+}
+p1
+{
+	letter-spacing: 7px;
+}
+body
+{
+	margin: 10px;
+}
+.Box
+{
+	display: flex;
+	width:1200px;
+	height:100px;
+	text-align: center;
+}
+.subbox
+{
+	background-color:rgb(229, 234, 84);
+	border:2px solid black;
+	margin-bottom:10px;
+	margin-left:10px;
+
+}
+.subbox img
+{
+	padding-top: 10px;
+	padding-bottom:5px;
+	width:90px;
+	height:50px;
+	float:right;
+}
+.subbox p
+{
+	color:blue;
+}
+.Box1
+{
+	display: flex;
+	width:250px;
+	height:700px;
+	text-align: center;
+}
+.subbox1
+{
+	padding-left:10px;
+	border:2px solid black;
+	margin-bottom:10px;
+	margin-left:10px;
+
+}
+.Box1 img
+{
+	padding-top: 10px;
+	padding-bottom:5px;
+	width:90px;
+	height:50px;
+	float:right;
+}
+
+.Box1 p2
+{
+	color:red;
+}
+.Box2
+{
+	width:600px;
+	height:900px;
+	text-align: center;
+}
+.subbox2
+{
+	padding-left:30px;
+	border:2px solid black;
+	margin-bottom:10px;
+	margin-left:10px;
+
+}
+.Box2 img
+{
+	padding-top: 10px;
+	padding-bottom:5px;
+	width:250px;
+	height:150px;
+	float:center;
+}
+.Box3
+{
+	width:90px;
+	height:900px;
+	text-align: center;
+}
+.subbox3
+{
+	padding-left:30px;
+	border:2px solid black;
+	margin-bottom:10px;
+	margin-left:10px;
+
+}
+.Box3 img
+{
+	padding-top: 10px;
+	padding-bottom:5px;
+	width:250px;
+	height:150px;
+	float:center;
+}
+.Box4
+{
+	width:770px;
+	height:900px;
+	text-align: center;
+}
+.subbox4
+{
+	padding-left:30px;
+	border:2px solid black;
+	margin-bottom:10px;
+	margin-left:10px;
+
+}
+.Box4 img
+{
+	padding-top: 10px;
+	padding-bottom:5px;
+	width:250px;
+	height:150px;
+	float:center;
+}
+.Box5
+{
+	width:420px;
+	height:900px;
+}
+.subbox5
+{
+	padding-left:10px;
+	border:2px solid black;
+	margin-bottom:10px;
+	margin-left:10px;
+
+
+}
+.subbox5 img
+{
+	padding-top: 10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	width:350px;
+	height:525px;
+	float:center;
+}
+
+.Box1,.Box2,.Box3
+{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.subbox1,.subbox2,.subbox3
+{
+	display: inline-block;
+	vertical-align: top;
+}
+.Box4,.Box5
+{
+	display: inline-block;
+	vertical-align: top;
+
+}
+.subbox4,.subbox5
+{
+	display: inline-block;
+	vertical-align: top;
+}
